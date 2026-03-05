@@ -16,30 +16,42 @@ Workshops are guided exercises where I learned and practiced CSS concepts. Each 
 
 # Workshop Projects
 
-### [01. Cafe Menu](https://mbalimade-it.github.io/fcc-css-workshops/01_cafe_menu)
+### [01. Cafe Menu](https://mbalidotdev.github.io/fcc-css-workshops/01_cafe_menu)
 
 _basic css_
 
-### [02. Greetings Card](https://mbalimade-it.github.io/fcc-css-workshops/02_greetings_card)
+### [02. Greetings Card](https://mbalidotdev.github.io/fcc-css-workshops/02_greetings_card)
 
-_psuedo elements and classes_
+_pseudo elements and classes_
 
-### [03. Coloured Markers](https://mbalimade-it.github.io/fcc-css-workshops/03_coloured_markers)
+### [03. Coloured Markers](https://mbalidotdev.github.io/fcc-css-workshops/03_coloured_markers)
 
 _colors_
 
-### [04. Registration Form](https://mbalimade-it.github.io/fcc-css-workshops/04_registration_form)
+### [04. Registration Form](https://mbalidotdev.github.io/fcc-css-workshops/04_registration_form)
 
 _attribute selector, unset, account-type, vertical-align_
 
-### [05. Game Settings Panel](https://mbalimade-it.github.io/fcc-css-workshops/05_game_settings_panel)
+### [05. Game Settings Panel](https://mbalidotdev.github.io/fcc-css-workshops/05_game_settings_panel)
 
 _cursor, styling checkboxes, transition, combined type selector_
 
-### [06. Rothko Painting](https://mbalimade-it.github.io/fcc-css-workshops/06_rothko_painting)
+### [06. Rothko Painting](https://mbalidotdev.github.io/fcc-css-workshops/06_rothko_painting)
 
 _filter, transform_
 
-### [07. Flexbox Photo Gallery](https://mbalimade-it.github.io/fcc-css-workshops/07_flexbox_photo_gallery)
+### [07. Flexbox Photo Gallery](https://mbalidotdev.github.io/fcc-css-workshops/07_flexbox_photo_gallery)
 
 _flexbox_
+
+### [08. Nutritional Label](https://mbalidotdev.github.io/fcc-css-workshops/08_nutritional_label)
+
+_fonts_
+
+### [09. Quiz Web Pages](https://mbalidotdev.github.io/fcc-css-workshops/09_quiz_webpage)
+
+_forms_
+
+### [10. Cat Painting](https://mbalidotdev.github.io/fcc-css-workshops/10_cat_painting)
+
+_positioning, transform_
