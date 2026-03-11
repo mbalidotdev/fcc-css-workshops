@@ -56,6 +56,10 @@ _forms_
 
 _positioning, transform_
 
-### [11 Balance Sheet](https://mbalidotdev.github.io/fcc-css-workshops/11_balance_sheet)
+### [11. Balance Sheet](https://mbalidotdev.github.io/fcc-css-workshops/11_balance_sheet)
 
 _attribute selectors_
+
+### [12. Piano](https://mbalidotdev.github.io/fcc-css-workshops/12_piano)
+
+_media queries_
